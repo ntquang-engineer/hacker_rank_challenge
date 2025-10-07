@@ -14,19 +14,19 @@
 
 Mục tiêu: Truy vấn SQL để làm rõ **hiểu hành vi học viên, đánh giá hiệu quả chiến dịch, rút insight cho tương lai**.
 
-2.1. Hiệu quả học tập:
-- Bao nhiêu % học viên theo hết 10 ngày?
-- Ngày nào có tỷ lệ bỏ cuộc cao nhất?
-- Trung bình điểm số theo từng ngày / chủ đề.
-2.2.  Phân khúc học viên:
-- Học viên mới (chỉ làm 1-2 ngày) với học viên gắn bó (7-10 ngày).
-- Nhóm nào có kết quả học tốt hơn?
-2.3 Nội dung form:
-- Chủ đề nào khó nhất (điểm thấp)?
-- Chủ đề nào học viên làm nhiều nhất?
-2.4. Insight cho tương lai:
-- Làm sao để giữ chân học viên lâu hơn?
-- Nên phát triển challenge tương tự cho nội dung nào?
+- 2.1. Hiệu quả học tập:
+    + Bao nhiêu % học viên theo hết 10 ngày?
+    + Ngày nào có tỷ lệ bỏ cuộc cao nhất?
+    + Trung bình điểm số theo từng ngày / chủ đề.
+- 2.2.  Phân khúc học viên:
+    + Học viên mới (chỉ làm 1-2 ngày) với học viên gắn bó (7-10 ngày).
+    + Nhóm nào có kết quả học tốt hơn?
+- 2.3 Nội dung form:
+    + Chủ đề nào khó nhất (điểm thấp)?
+    + Chủ đề nào học viên làm nhiều nhất?
+- 2.4. Insight cho tương lai:
+    + Làm sao để giữ chân học viên lâu hơn?
+    + Nên phát triển challenge tương tự cho nội dung nào?
 
 ---
 
