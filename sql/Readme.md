@@ -1,4 +1,4 @@
-# Thư mục này chứa toàn bộ các script SQL để **xây dựng cơ sở dữ liệu, chèn dữ liệu mẫu va thực hiện truy vấn ** cho dự án **Phân tích hiệu quả chiến dịch HackerRank bằng SQL**
+# Thư mục này chứa toàn bộ các script SQL để xây dựng cơ sở dữ liệu, chèn dữ liệu mẫu va thực hiện truy vấn cho dự án Phân tích hiệu quả chiến dịch HackerRank bằng SQL
 
 ---
 
